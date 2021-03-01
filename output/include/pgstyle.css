@@ -1,0 +1,10 @@
+table[data-location=grid]{	
+    border: 1px solid #f4f4f4;
+    margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+@media (max-width: 767px) {
+	#customLogin {
+		display:none;
+	}

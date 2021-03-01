@@ -1,0 +1,107 @@
+[data-cellid="supertop_c"][data-page="carscars_view"][data-cellid="supertop_c"][data-page="carscars_view"][data-cellid="supertop_c"][data-page="carscars_view"] {
+  width: 50%;
+}
+[data-cellid="supertop_c3"][data-page="carscars_view"][data-cellid="supertop_c3"][data-page="carscars_view"][data-cellid="supertop_c3"][data-page="carscars_view"] {
+  width: 50%;
+}
+[data-cellid="grid_c3"][data-page="carscars_view"][data-cellid="grid_c3"][data-page="carscars_view"][data-cellid="grid_c3"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c4"][data-page="carscars_view"][data-cellid="grid_c4"][data-page="carscars_view"][data-cellid="grid_c4"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c5"][data-page="carscars_view"][data-cellid="grid_c5"][data-page="carscars_view"][data-cellid="grid_c5"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c6"][data-page="carscars_view"][data-cellid="grid_c6"][data-page="carscars_view"][data-cellid="grid_c6"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c7"][data-page="carscars_view"][data-cellid="grid_c7"][data-page="carscars_view"][data-cellid="grid_c7"][data-page="carscars_view"] {
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c9"][data-page="carscars_view"][data-cellid="grid_c9"][data-page="carscars_view"][data-cellid="grid_c9"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c10"][data-page="carscars_view"][data-cellid="grid_c10"][data-page="carscars_view"][data-cellid="grid_c10"][data-page="carscars_view"] {
+  border-right: solid #f0f2f4 1px;
+  border-bottom: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c8"][data-page="carscars_view"][data-cellid="grid_c8"][data-page="carscars_view"][data-cellid="grid_c8"][data-page="carscars_view"] {
+  background-color: #f0f2f4;
+  border-top: solid #f0f2f4 1px;
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c"][data-page="carscars_view"][data-cellid="grid_c"][data-page="carscars_view"][data-cellid="grid_c"][data-page="carscars_view"] {
+  background-color: #f0f2f4;
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-cellid="grid_c11"][data-page="carscars_view"][data-cellid="grid_c11"][data-page="carscars_view"][data-cellid="grid_c11"][data-page="carscars_view"] {
+  background-color: #f0f2f4;
+  border-right: solid #f0f2f4 1px;
+  border-left: solid #f0f2f4 1px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > * > input,
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > * > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > .form-control-static,
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > [id^=view],
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] label,
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] > * > .r-readonly-control {
+  font-size: 20px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"][data-page="carscars_view"][data-itemid="integrated_edit_field13"] {
+  padding-left: 10px;
+}
+[data-page="carscars_view"][data-itemid="custom_button"] > .btn {
+  padding-left: 10px;
+}
+[data-page="carscars_view"][data-itemid="custom_button"] {
+  padding-top: 10px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > * > input,
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > * > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > .form-control-static,
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > [id^=view],
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] label,
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] > * > .r-readonly-control {
+  font-size: 17px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"][data-page="carscars_view"][data-itemid="integrated_edit_field9"] {
+  padding-left: 10px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > * > input,
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > * > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > .form-control-static,
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > [id^=view],
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] label,
+[data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"][data-page="carscars_view"][data-itemid="integrated_edit_field10"] > * > .r-readonly-control {
+  font-size: 17px;
+}
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > * > input,
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > * > * > select,
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > .form-control-static,
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > [id^=view],
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] label,
+[data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"][data-page="carscars_view"][data-itemid="integrated_edit_field15"] > * > .r-readonly-control {
+  font-size: 17px;
+}
+[data-page="carscars_view"][data-itemid="snippet"] {
+  padding-right: 20px;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="supertop_c3"][data-page="carscars_view"][data-cellid="supertop_c3"][data-page="carscars_view"][data-cellid="supertop_c3"][data-page="carscars_view"] {
+  text-align:right;
+}
+

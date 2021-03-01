@@ -1,0 +1,58 @@
+.panel-default > .panel-heading {
+	display:none !important;
+}
+.function-login{
+	background-image: url("../../images/carslogin3.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+@media (min-width: 767px) {
+	.navbar-nav {
+		 padding-left: 180px !important;
+	}
+}
+
+.bs-grid-vertical > .r-record-body > .panel > .panel-body > table > * > tr > * {
+    padding-left: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-right: 0px !important;
+}
+.panel-default > .panel-heading{
+	display:none !important;
+}
+.panel-default {
+	border-radius:0px !important;
+	margin-bottom:0px !important;
+}
+.bs-grid-vertical > .r-record-body > .panel {
+   height: auto !important;
+}
+.panel-default:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.bs-grid-vertical > .r-record-body > .panel > .panel-body {	
+	padding: 0px !important;
+}
+
+[data-field="Picture"]{
+	display: -webkit-box !important;
+}
+
+.panel-body:hover, div.panel-heading:hover + div.panel-body {
+	background-color: transparent !important;
+}
+span[data-field=descr]{
+    height: 130px;
+    overflow: hidden;
+	padding:5px;
+}
+.panel-body:hover table>tbody>tr:nth-child(4)>td, div.panel-heading:hover + div.panel-body table>tbody>tr:nth-child(4)>td{
+   background-color:#e6e6e6 !important;
+}
+.filesUpload{
+	color:white;
+}
+.rnr-dragndrop-area {
+     width: 400px;
+}

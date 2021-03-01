@@ -1,0 +1,94 @@
+[data-cellid="grid_c1"][data-page="carsform_add"][data-cellid="grid_c1"][data-page="carsform_add"][data-cellid="grid_c1"][data-page="carsform_add"] {
+  background-color: #e4e4e4;
+}
+[data-cellid="grid_c2"][data-page="carsform_add"][data-cellid="grid_c2"][data-page="carsform_add"][data-cellid="grid_c2"][data-page="carsform_add"] {
+  background-color: #e4e4e4;
+}
+[data-page="carsform_add"][data-itemid="integrated_edit_field2"][data-page="carsform_add"][data-itemid="integrated_edit_field2"][data-page="carsform_add"][data-itemid="integrated_edit_field2"][data-page="carsform_add"][data-itemid="integrated_edit_field2"] {
+  width: 78%;
+}
+[data-page="carsform_add"][data-itemid="integrated_edit_field3"][data-page="carsform_add"][data-itemid="integrated_edit_field3"][data-page="carsform_add"][data-itemid="integrated_edit_field3"][data-page="carsform_add"][data-itemid="integrated_edit_field3"] {
+  width: 200px;
+}
+[data-page="carsform_add"][data-itemid="integrated_edit_field5"][data-page="carsform_add"][data-itemid="integrated_edit_field5"][data-page="carsform_add"][data-itemid="integrated_edit_field5"][data-page="carsform_add"][data-itemid="integrated_edit_field5"] {
+  width: 200px;
+}
+[data-page="carsform_add"][data-itemid="integrated_edit_field6"][data-page="carsform_add"][data-itemid="integrated_edit_field6"][data-page="carsform_add"][data-itemid="integrated_edit_field6"][data-page="carsform_add"][data-itemid="integrated_edit_field6"] {
+  width: 200px;
+}
+[data-page="carsform_add"][data-itemid="integrated_edit_field7"][data-page="carsform_add"][data-itemid="integrated_edit_field7"][data-page="carsform_add"][data-itemid="integrated_edit_field7"][data-page="carsform_add"][data-itemid="integrated_edit_field7"] {
+  width: 200px;
+}
+[data-page="carsform_add"][data-itemid="snippet1"] {
+  font-weight: bold;
+  padding: 5px;
+}
+[data-page="carsform_add"][data-itemid="snippet3"] {
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="top_c"][data-page="carsform_add"][data-cellid="top_c"][data-page="carsform_add"][data-cellid="top_c"][data-page="carsform_add"] {
+  display: none;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c1"][data-page="carsform_add"][data-cellid="grid_c1"][data-page="carsform_add"][data-cellid="grid_c1"][data-page="carsform_add"] {
+  text-align:center;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c2"][data-page="carsform_add"][data-cellid="grid_c2"][data-page="carsform_add"][data-cellid="grid_c2"][data-page="carsform_add"] {
+  text-align:center;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c6"][data-page="carsform_add"][data-cellid="grid_c6"][data-page="carsform_add"][data-cellid="grid_c6"][data-page="carsform_add"] {
+  height:50px !important;
+  vertical-align:middle;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c7"][data-page="carsform_add"][data-cellid="grid_c7"][data-page="carsform_add"][data-cellid="grid_c7"][data-page="carsform_add"] {
+  height:50px !important;
+  vertical-align:middle;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c5"][data-page="carsform_add"][data-cellid="grid_c5"][data-page="carsform_add"][data-cellid="grid_c5"][data-page="carsform_add"] {
+  text-align:center;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c"][data-page="carsform_add"][data-cellid="grid_c"][data-page="carsform_add"][data-cellid="grid_c"][data-page="carsform_add"] {
+  height:50px !important;
+  vertical-align:middle;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c12"][data-page="carsform_add"][data-cellid="grid_c12"][data-page="carsform_add"][data-cellid="grid_c12"][data-page="carsform_add"] {
+ height:50px !important;
+  vertical-align:middle;
+}
+
+/* Put  your custom CSS code here */
+
+[data-cellid="grid_c13"][data-page="carsform_add"][data-cellid="grid_c13"][data-page="carsform_add"][data-cellid="grid_c13"][data-page="carsform_add"] {
+  height:50px !important;
+  vertical-align:middle;
+}
+/* Put  your custom CSS code here */
+
+[data-page="carsform_add"][data-itemid="edit_field_label4"] {
+   width: 16.5% !important;
+}
+
